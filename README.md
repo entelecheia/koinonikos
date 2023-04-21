@@ -54,8 +54,6 @@ pip install koinonikos
 
 To get started with Koinonikos, visit the [official documentation][docs-url] and the [GitHub repository][repo-url] for examples, tutorials, and more information.
 
-Join the Koinonikos community today and advance the field of social science research with the power of Python!
-
 ## Changelog
 
 See the [CHANGELOG] for more information.
