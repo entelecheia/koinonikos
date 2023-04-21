@@ -1,0 +1,24 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.2.13
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Young Joon Lee
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: gh:entelecheia/hyfi-template
+copyright_year: 2023
+documentaion_tool: jupyter-book
+documentation_url: https://koinonikos.entelecheia.ai
+email: entelecheia@hotmail.com
+friendly_name: Koinonikos
+github_repo_name: koinonikos
+github_username: entelecheia
+package_name: koinonikos
+project_description: Koinonikos is a versatile and comprehensive Python library designed
+    to facilitate social science research by providing advanced tools and techniques
+    for data collection, analysis, and visualization. The name Koinonikos is derived
+    from the Greek word κοινωνικός, meaning "social," reflecting the library's focus
+    on empowering researchers in the social sciences.
+project_license: MIT
+project_name: koinonikos
+project_short_description: A Python Library for Social Science Research
+use_source_code_skeleton: true
+

@@ -1,0 +1,6 @@
+[metadata]
+name = "koinonikos"
+description = "A Python Library for Social Science Research"
+authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
+license = "MIT"
+homepage = "https://koinonikos.entelecheia.ai"
