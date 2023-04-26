@@ -1,7 +1,8 @@
 # Changes here will be overwritten by Copier; do NOT edit manually
-_commit: v0.2.13
+_commit: v0.2.23
 _src_path: gh:entelecheia/hyperfast-python-template
 author: Young Joon Lee
+build_and_release: true
 code_template_answers_file: .copier-hyfi-config.yaml
 code_template_source: gh:entelecheia/hyfi-template
 copyright_year: 2023
@@ -20,5 +21,7 @@ project_description: Koinonikos is a versatile and comprehensive Python library 
 project_license: MIT
 project_name: koinonikos
 project_short_description: A Python Library for Social Science Research
+upload_to_release: true
+upload_to_repository: true
 use_source_code_skeleton: true
 
